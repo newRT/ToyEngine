@@ -1,1 +1,4 @@
-add_library(Common BaseApplication.cpp main.cpp)
+add_library(Common 
+BaseApplication.cpp
+GraphicsManager.cpp
+ main.cpp)
